@@ -73,6 +73,33 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Risk registers and decision logs
 - Coordination via project boards and meeting facilitation
 
+Scrum Master
+
+Facilitates Sprint Planning, Reviews, and Retrospectives
+Works with team to eliminate blockers
+Champions Agile best practices and team health
+Interfaces with PM and Product Lead on process improvement
+UX Designer
+
+Leads user research and information architecture
+Develops wireframes and prototypes for new features
+Collaborates with Developers and Product Managers to align design with product vision
+Advocates for accessibility and usability standards
+DevOps Engineer
+
+Manages CI/CD pipelines and infrastructure as code
+Supports environment stability, monitoring, and automated deployments
+Works closely with Developers and QA to streamline releases
+QA Automation Engineer
+
+Designs and maintains automated test suites
+Ensures regression coverage and reports quality metrics
+Collaborates with Developers, Product Managers, and DevOps to maintain high release confidence
+Business Analyst
+
+Gathers, analyzes, and documents business requirements
+Supports backlog refinement and user story development
+Bridges communication between business stakeholders and technical teams
 ---
 
 ## How these personas are used in the exercise
